@@ -1,0 +1,17 @@
+{
+	"threshold": 30,
+    "alert_repeat": 1,
+	"smtp_server": "smtp.example.com",
+	"port": 465,
+	"tls": true,
+	"username": "example@example.com",
+	"password": "password",
+	"recipient": "example@example.com",
+	"fromname": "Silence Sensor",
+    "pins": {
+	    "2": "PIN or Station Name",
+	    "3": "As many pins as possible",
+	    "4": "WWWW",
+	    "17": "WEEE"
+    }
+}
